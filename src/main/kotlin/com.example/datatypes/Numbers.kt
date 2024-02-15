@@ -1,4 +1,4 @@
-package com.example.helloworld.datatypes
+package com.example.datatypes
 
 class Numbers
     fun main(){
